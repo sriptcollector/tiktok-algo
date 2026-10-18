@@ -1,0 +1,4 @@
+*.apk
+*.dex
+jadx-src/
+evidence.json
